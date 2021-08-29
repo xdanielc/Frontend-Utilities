@@ -1,6 +1,6 @@
 # Javascript Libraries
 
-This is a list of Javascript chart libraries
+This is a list of Javascript libraries
 
 ## Chart libraries
 
@@ -32,6 +32,18 @@ This is a list of Javascript chart libraries
 - [VideoJS](https://videojs.com/)
 - [Plyr](https://plyr.io/)
 
+## Utilities and frameworks
+
+- [Underscore](http://underscorejs.org/)
+- [Backbone](https://backbonejs.org/)
+- [Marionette](https://marionettejs.com/)
+- [Lodash](https://lodash.com/)
+- [Polyfill](https://polyfill.io/v3/)
+- [Select2](https://select2.org/)
+- [GravityForms](https://www.gravityforms.com/)
+- [RequireJS](https://requirejs.org/)
+- [Modernizr](https://modernizr.com/)
+
 ## Tables
 - [Datatables](https://datatables.net/)
 - [Bootstraptable](https://bootstrap-table.com/)
@@ -40,6 +52,21 @@ This is a list of Javascript chart libraries
 - [Hammer](https://hammerjs.github.io/)
 - [ClipboardJS](https://clipboardjs.com/)
 - [Popper](https://popper.js.org/)
+
+## Filltering
+
+- [MixItUp](https://www.kunkalabs.com/mixitup/)
+- [isotope](https://isotope.metafizzy.co/filtering.html)
+- [FilterizR](https://yiotis.net/filterizr/)
+- [Muuri](https://muuri.dev/)
+
+## Masonry
+
+- [Macy](http://macyjs.com/)
+
+## Animation
+
+-[Gsap](https://greensock.com/gsap/)
 
 ## Reveal Animation
 
@@ -51,7 +78,7 @@ This is a list of Javascript chart libraries
 - [Loaf](https://getloaf.io/)
 - [Motus](https://github.com/alexcambose/motus)
 - [Sal](https://mciastek.github.io/sal/)
-- [Reveal](https://revealjs.com/)
+- [RevealJS](https://revealjs.com/)
 - [AnimeJS](https://animejs.com/)
 - [Velocity](http://velocityjs.org/)
 - [Rellax](https://dixonandmoe.com/rellax/)
