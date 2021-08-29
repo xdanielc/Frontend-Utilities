@@ -70,6 +70,7 @@ This is a list of Javascript libraries
 
 ## Reveal Animation
 
+- [AOS](http://michalsnik.github.io/aos/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh](https://mamunhpath.github.io/josh.js/)
 - [Waypoints](http://imakewebthings.com/waypoints/)
@@ -83,3 +84,13 @@ This is a list of Javascript libraries
 - [Velocity](http://velocityjs.org/)
 - [Rellax](https://dixonandmoe.com/rellax/)
 - [Rallax](https://chriscavs.github.io/rallax-demo/)
+- [T-scroll](https://t-scroll.com/)
+- [ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)
+- [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
+- [Wow](https://wowjs.uk/)
+- [ScrollMagic](http://scrollmagic.io/)
+- [Morphing bg Shapes](https://github.com/codrops/MorphingBackgroundShapes/)
+
+## Scroll
+
+- [MoveTo](https://github.com/hsnaydd/moveTo)
