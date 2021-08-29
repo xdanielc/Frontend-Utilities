@@ -66,7 +66,7 @@ This is a list of Javascript libraries
 
 ## Animation
 
--[Gsap](https://greensock.com/gsap/)
+- [Gsap](https://greensock.com/gsap/)
 
 ## Reveal Animation
 
