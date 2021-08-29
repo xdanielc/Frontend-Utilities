@@ -32,7 +32,7 @@ This is a list of Javascript chart libraries
 - [VideoJS](https://videojs.com/)
 - [Plyr](https://plyr.io/)
 
-## Tablas
+## Tables
 - [Datatables](https://datatables.net/)
 - [Bootstraptable](https://bootstrap-table.com/)
 
