@@ -26,6 +26,7 @@ This is a list of Javascript libraries
 - [Swipebox](http://brutaldesign.github.io/swipebox/)
 - [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/)
 - [SwiperJS](https://swiperjs.com/)
+- [LightGallery](https://www.lightgalleryjs.com/)
 
 ## Video Libraries
 
