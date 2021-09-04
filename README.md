@@ -76,13 +76,10 @@ This is a list of Javascript libraries
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh 2kb min + animateCSS](https://mamunhpath.github.io/josh.js/)
 - [Waypoints :(](http://imakewebthings.com/waypoints/)
-- [Motus](https://github.com/alexcambose/motus)
 - [Sal](https://mciastek.github.io/sal/)
 - [RevealJS](https://revealjs.com/)
 - [AnimeJS](https://animejs.com/)
 - [Velocity](http://velocityjs.org/)
-- [Rellax](https://dixonandmoe.com/rellax/)
-- [Rallax](https://chriscavs.github.io/rallax-demo/)
 - [T-scroll](https://t-scroll.com/)
 - [ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)
 - [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
@@ -92,6 +89,9 @@ This is a list of Javascript libraries
 ## Scroll
 
 - [Lax](https://alexfox.dev/lax.js/)
+- [Motus](https://github.com/alexcambose/motus) Cambiar propiedades
+- [Rellax](https://dixonandmoe.com/rellax/) Simple y decarativo
+- [Rallax](https://chriscavs.github.io/rallax-demo/) Delimita posiciones, funcina en img
 - [MoveTo](https://github.com/hsnaydd/moveTo) (Innecesario con CSS)
 
 ## Tools
