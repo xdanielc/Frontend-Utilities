@@ -72,10 +72,10 @@ This is a list of Javascript libraries
 ## Reveal Animation
 
 - [AOS](http://michalsnik.github.io/aos/)
+- [Wow + AnimateCSS](https://wowjs.uk/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh](https://mamunhpath.github.io/josh.js/)
 - [Waypoints](http://imakewebthings.com/waypoints/)
-- [AOS](https://michalsnik.github.io/aos/)
 - [Lax](https://alexfox.dev/lax.js/)
 - [Loaf](https://getloaf.io/)
 - [Motus](https://github.com/alexcambose/motus)
@@ -88,7 +88,6 @@ This is a list of Javascript libraries
 - [T-scroll](https://t-scroll.com/)
 - [ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)
 - [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
-- [Wow](https://wowjs.uk/)
 - [ScrollMagic](http://scrollmagic.io/)
 - [Morphing bg Shapes](https://github.com/codrops/MorphingBackgroundShapes/)
 
