@@ -76,7 +76,7 @@ This is a list of Javascript libraries
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh 2kb min + animateCSS](https://mamunhpath.github.io/josh.js/)
 - [Waypoints :(](http://imakewebthings.com/waypoints/)
-- [Lax](https://alexfox.dev/lax.js/)
+
 - [Loaf](https://getloaf.io/)
 - [Motus](https://github.com/alexcambose/motus)
 - [Sal](https://mciastek.github.io/sal/)
@@ -93,4 +93,5 @@ This is a list of Javascript libraries
 
 ## Scroll
 
-- [MoveTo](https://github.com/hsnaydd/moveTo)
+- [Lax](https://alexfox.dev/lax.js/)
+- [MoveTo](https://github.com/hsnaydd/moveTo) (Innecesario con CSS)
