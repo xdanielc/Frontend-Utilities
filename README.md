@@ -74,7 +74,7 @@ This is a list of Javascript libraries
 - [AOS 3.57 + 5.25 = 8.82kb](http://michalsnik.github.io/aos/)
 - [Wow + AnimateCSS 4.98 + 2.23 = 7.21kb](https://wowjs.uk/)
 - [ScrollReveal](https://scrollrevealjs.org/)
-- [Josh](https://mamunhpath.github.io/josh.js/)
+- [Josh 2kb min + animateCSS](https://mamunhpath.github.io/josh.js/)
 - [Waypoints](http://imakewebthings.com/waypoints/)
 - [Lax](https://alexfox.dev/lax.js/)
 - [Loaf](https://getloaf.io/)
