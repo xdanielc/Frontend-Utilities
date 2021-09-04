@@ -75,7 +75,7 @@ This is a list of Javascript libraries
 - [Wow + AnimateCSS 4.98 + 2.23 = 7.21kb](https://wowjs.uk/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh 2kb min + animateCSS](https://mamunhpath.github.io/josh.js/)
-- [Waypoints ](http://imakewebthings.com/waypoints/)
+- [Waypoints :(](http://imakewebthings.com/waypoints/)
 - [Lax](https://alexfox.dev/lax.js/)
 - [Loaf](https://getloaf.io/)
 - [Motus](https://github.com/alexcambose/motus)
