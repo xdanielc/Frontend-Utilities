@@ -68,6 +68,7 @@ This is a list of Javascript libraries
 ## Animation
 
 - [Gsap](https://greensock.com/gsap/)
+- [AnimeJS](https://animejs.com/)
 
 ## Reveal Animation
 
@@ -76,22 +77,24 @@ This is a list of Javascript libraries
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Josh 2kb min + animateCSS](https://mamunhpath.github.io/josh.js/)
 - [Waypoints :(](http://imakewebthings.com/waypoints/)
-- [Sal](https://mciastek.github.io/sal/)
-- [RevealJS](https://revealjs.com/)
-- [AnimeJS](https://animejs.com/)
-- [Velocity](http://velocityjs.org/)
-- [T-scroll](https://t-scroll.com/)
-- [ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)
-- [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
-- [ScrollMagic](http://scrollmagic.io/)
-- [Morphing bg Shapes](https://github.com/codrops/MorphingBackgroundShapes/)
+- [Sal 2.8kb](https://mciastek.github.io/sal/)
+- [RevealJS](https://revealjs.com/) Presentaciones
 
-## Scroll
+## Scroll triggered
 
 - [Lax](https://alexfox.dev/lax.js/)
 - [Motus](https://github.com/alexcambose/motus) Cambiar propiedades
 - [Rellax](https://dixonandmoe.com/rellax/) Simple y decarativo
 - [Rallax](https://chriscavs.github.io/rallax-demo/) Delimita posiciones, funcina en img
+- [ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)
+- [ScrollMagic](http://scrollmagic.io/)mas antigua, varias prop, 6kb
+- [Morphing bg Shapes](https://github.com/codrops/MorphingBackgroundShapes/)
+- [T-scroll](https://t-scroll.com/)
+- [Velocity](http://velocityjs.org/) Parece tener bastantes cosas, algo confuso
+
+
+## Scroll control
+- [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
 - [MoveTo](https://github.com/hsnaydd/moveTo) (Innecesario con CSS)
 
 ## Tools
