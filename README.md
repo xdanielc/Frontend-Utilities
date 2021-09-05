@@ -98,7 +98,7 @@ Wow.js Add clases: wow animate__animated animate__tada new WOW().init();
 
 ## Hover
 
-- [Atropos] (https://atroposjs.com/)
+- [Atropos](https://atroposjs.com/)
 
 
 ## Scroll control
