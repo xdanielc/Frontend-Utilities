@@ -80,6 +80,10 @@ This is a list of Javascript libraries
 - [Sal 2.8kb](https://mciastek.github.io/sal/)
 - [RevealJS](https://revealjs.com/) Presentaciones
 
+### Wow
+
+Wow.js Add clases: wow animate__animated animate__tada new WOW().init();
+
 ## Scroll triggered
 
 - [Lax](https://alexfox.dev/lax.js/)
