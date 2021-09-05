@@ -96,6 +96,10 @@ Wow.js Add clases: wow animate__animated animate__tada new WOW().init();
 - [T-scroll](https://t-scroll.com/)
 - [Velocity](http://velocityjs.org/) Parece tener bastantes cosas, algo confuso
 
+## Hover
+
+- [Atropos] (https://atroposjs.com/)
+
 
 ## Scroll control
 - [SweetScroll](https://tsuyoshiwada.github.io/sweet-scroll/)
