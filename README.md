@@ -60,6 +60,7 @@ This is a list of Javascript libraries
 - [isotope](https://isotope.metafizzy.co/filtering.html)
 - [FilterizR](https://yiotis.net/filterizr/)
 - [Muuri](https://muuri.dev/)
+- [Shuffle](https://vestride.github.io/Shuffle/)
 
 ## Masonry
 
