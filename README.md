@@ -87,6 +87,7 @@ Wow.js Add clases: wow animate__animated animate__tada new WOW().init();
 
 ## Scroll triggered
 
+- [Choreographer](https://github.com/christinecha/choreographer-js)
 - [Lax](https://alexfox.dev/lax.js/)
 - [Motus](https://github.com/alexcambose/motus) Cambiar propiedades
 - [Rellax](https://dixonandmoe.com/rellax/) Simple y decarativo
