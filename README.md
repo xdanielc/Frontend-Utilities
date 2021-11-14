@@ -124,3 +124,13 @@ Wow.js Add clases: wow animate__animated animate__tada new WOW().init();
 - [Cirrus](https://cirrus-ui.netlify.app/why)
 - [Bulma](https://bulma.io/)
 - [UIKit](https://getuikit.com/)
+
+## Extra: VS Code extensions
+
+- [ES6 snnipets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [CSS Intelisense](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- [ES6 String highlight](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html)
+- [CSS Peek (Brackets)](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Bulma Snnipets](https://marketplace.visualstudio.com/items?itemName=dmytrolobov.bulma-snippets-set)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [CRT Hacker Theme](https://marketplace.visualstudio.com/items?itemName=krueger71.crt-themes)
