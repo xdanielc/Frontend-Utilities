@@ -8,7 +8,7 @@ This is a list of Javascript libraries
 -   [Morris.js](https://morrisjs.github.io/morris.js/)
 -   [Apexcharts](https://apexcharts.com/)
 -   [Apache ECharts](https://echarts.apache.org/zh/index.html)
--   [amCharts](https://www.amcharts.com/)
+-   [amCharts](https://www.amcharts.com/) (Animated bar race)
 -   [Frappe.io](https://frappe.io/charts)
 -   [ToastUI](https://ui.toast.com/)
 -   [ZingChart](https://www.zingchart.com/)
