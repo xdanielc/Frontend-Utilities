@@ -1,4 +1,4 @@
-# Javascript Libraries
+# Frontend Utilities
 
 This is a list of Javascript libraries
 
