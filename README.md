@@ -50,6 +50,7 @@ This is a list of Javascript libraries
 - [Bootstraptable](https://bootstrap-table.com/)
 
 ## Random
+- [Colord, lightest color library, 0 dependencies](https://www.npmjs.com/package/colord)
 - [Hammer](https://hammerjs.github.io/)
 - [ClipboardJS](https://clipboardjs.com/)
 - [Popper](https://popper.js.org/)
